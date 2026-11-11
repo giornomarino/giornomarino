@@ -4,6 +4,8 @@ I make small Mac and Windows tools — building & sharing.
 
 🏠 **个人主页 · Homepage：[giornomarino.github.io](https://giornomarino.github.io)**：所有项目的介绍和下载链接都在这里，源码在 [giornomarino.github.io](https://github.com/giornomarino/giornomarino.github.io) 仓库。
 
+📫 **联系 · Contact：[annoying-hut-vowel@duck.com](mailto:annoying-hut-vowel@duck.com)**
+
 | 项目 | 简介 |
 |---|---|
 | [Swap Your Icon](https://github.com/giornomarino/swap-your-icon) | 给 Mac / Windows 应用换图标 · Change app icons |
