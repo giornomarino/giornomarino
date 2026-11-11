@@ -1,7 +1,6 @@
 ### Hi, I'm Giorno Marino 👋
 
-业余写一些 Mac 和 Windows 上的小工具，大多是先给自己用、顺手也分享出来。
-I make small Mac and Windows tools — mostly for myself first, then shared.
+I make small Mac and Windows tools —  build & shared .
 
 🏠 **个人主页 · Homepage：[giornomarino.github.io](https://giornomarino.github.io)**：所有项目的介绍和下载链接都在这里，源码在 [giornomarino.github.io](https://github.com/giornomarino/giornomarino.github.io) 仓库。
 
